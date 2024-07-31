@@ -1,6 +1,7 @@
 # Rock_Paper_Scissors_Lizard_Spock
 Welcome to the Rock Paper Scissors Lizard Spock game! This program is a fun and engaging twist on the classic Rock Paper Scissors, incorporating two additional options: Lizard and Spock. You can play against a friend or the computer.
 
+## Rock Paper Scissors Lizard Spock
 Rock Paper Scissors Lizard Spock is an extension of the classic game Rock Paper Scissors. It was invented by Sam Kass and Karen Bryla and popularized by the television show "The Big Bang Theory." The game adds two more options to the traditional three, making it more complex and reducing the chances of a tie. In this game, players simultaneously form one of five shapes with their hand. The possible shapes are:
 
 #### Rock
@@ -11,7 +12,7 @@ Rock Paper Scissors Lizard Spock is an extension of the classic game Rock Paper 
 
 Each shape beats two other shapes, loses to two, and ties with itself. 
 
-The relationships are as follows:
+#### The relationships are as follows:
 
 ## 1) Rock:
 - Crushes Scissors: Rock breaks Scissors, making them unusable.
